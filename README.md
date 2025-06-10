@@ -1,3 +1,3 @@
-# :earth_americas: GDP dashboard template
+# :earth_americas: GDP dashboard 
 
 
